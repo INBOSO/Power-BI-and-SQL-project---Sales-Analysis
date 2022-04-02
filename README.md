@@ -1,8 +1,8 @@
 # Power BI & SQL project - Salas Analysis
 
-In this project, we deal with sales data for Internet sales over the last 3 years.
-The aim of this project is to make Dashboards to illustrate and analyze sales data. 
-In this project, I used SQL and Power BI 
+Please open .PreviewFile.pdf to see project before download it.
+
+Data Analyst Portfolio Project made together with Ali Ahmad on YouTube channel https://www.youtube.com/watch?v=z7o5Wju-PZg&t=0s 
 
 1. 
 Business Request & User Stories

@@ -18,15 +18,39 @@ To create the necessary data model for doing analysis and fulfilling the busines
 One data source (sales budgets) were provided in Excel format and were connected in the data model in a later step of the process.
 Below are the SQL statements for cleansing and transforming necessary data.
 
+Some of the following tings are exemplified:
+
+- AS Statement (Renaming Columns)
+- Combining columns
+- Commenting in SQL Script
+- Formatting of SQL statements
+- WHERE Clause
+- ORDER BY
+- LEFT JOIN
+- Case() Function
+- IsNull() Funtion
+
+
 3.
 Data Model
 
-Below is a screenshot of the data model after cleansed and prepared tables were read into Power BI.
-This data model also shows how FACT_Budget hsa been connected to FACT_InternetSales and other necessary DIM tables.
+- Load and transform data,
+- Organaze tables as DIM and FACT tables,
+- Tables connected for Data Modeling
+- Imported FACT_Budget.
 
 4.
 Sales Management Dashboard
 
-The finished sales management dashboard with one page with works as a dashboard and overview, with two other pages focused on combining tables for necessary details and visualizations to show sales over time, per customers and per products. 
-
- 
+Dashboard Design: 
+- Import Custom Visual, 
+- Calculations, 
+- Measure Table, 
+- Pie Chart,
+- Bar Chart,
+- Line Chart, 
+- Map Graph,
+- Top 10 Graphs,
+- Gradient Bar Chart Color,
+- Custom Details,
+- Pivot Tables

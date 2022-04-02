@@ -7,7 +7,7 @@ In this project, I used SQL and Power BI
 1. 
 Business Request & User Stories
 
-The business request for this data analyst project was an executive sales report for sales managers. 
+The business request for this data analyst project was an executive sales report for sales managers.
 Based on the request that was made from the business we created user stories.
 Was defined acceptance criteria’s.
 

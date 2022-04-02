@@ -8,7 +8,8 @@ In this project, I used SQL and Power BI
 Business Request & User Stories
 
 The business request for this data analyst project was an executive sales report for sales managers. 
-Based on the request that was made from the business we following user stories were defined to fulfill delivery and ensure that acceptance criteria’s were maintained throughout the project.
+Based on the request that was made from the business we created user stories.
+Was defined acceptance criteria’s.
 
 
 2.
@@ -16,9 +17,8 @@ Data Cleansing & Transformation (SQL)
 
 To create the necessary data model for doing analysis and fulfilling the business needs defined in the user stories the following tables were extracted using SQL.
 One data source (sales budgets) were provided in Excel format and were connected in the data model in a later step of the process.
-Below are the SQL statements for cleansing and transforming necessary data.
 
-Some of the following tings are exemplified:
+Some of the following things are exemplified:
 
 - AS Statement (Renaming Columns)
 - Combining columns
@@ -34,13 +34,12 @@ Some of the following tings are exemplified:
 3.
 Data Model
 
-- Load and transform data,
+- Load and transform data (data type changes),
 - Organaze tables as DIM and FACT tables,
 - Tables connected for Data Modeling
 - Imported FACT_Budget.
 
 4.
-Sales Management Dashboard
 
 Dashboard Design: 
 - Import Custom Visual, 

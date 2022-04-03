@@ -2,14 +2,14 @@
 
 Please open .PreviewFile.pdf to see project before download it.
 
-Data Analyst Portfolio Project made together with Ali Ahmad on YouTube channel https://www.youtube.com/watch?v=z7o5Wju-PZg&t=0s 
+Data Analyst Portfolio Project created followed by Ali Ahmad YouTube video tutorial https://www.youtube.com/watch?v=z7o5Wju-PZg&t=0s 
 
 1. 
 Business Request & User Stories
 
 The business request for this data analyst project was an executive sales report for sales managers.
 Based on the request that was made from the business we created user stories.
-Was defined acceptance criteria’s.
+Was defined acceptance criteriaâ€™s.
 
 
 2.

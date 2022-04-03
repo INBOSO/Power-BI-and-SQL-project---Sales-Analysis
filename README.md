@@ -1,4 +1,4 @@
-# Power BI & SQL project - Salas Analysis
+# Power BI & SQL project - Sales Analysis
 
 Please open .PreviewFile.pdf to see project before download it.
 

@@ -2,7 +2,7 @@
 
 Please open .PreviewFile.pdf to see project before download it.
 
-Data Analyst Portfolio Project created followed by Ali Ahmad YouTube video tutorial https://www.youtube.com/watch?v=z7o5Wju-PZg&t=0s 
+Data Analyst Portfolio Project created following Ali Ahmad YouTube video tutorial https://www.youtube.com/watch?v=z7o5Wju-PZg&t=0s 
 
 1. 
 Business Request & User Stories
